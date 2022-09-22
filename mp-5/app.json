@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/job/job",
+    "pages/info/info",
+    "pages/my/my"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/job/job",
+        "text": "工作",
+        "iconPath": "/images/data/icon/gongzuo.png",
+        "selectedIconPath": "/images/data/icon/gongzuo.png"
+      },
+      {
+        "pagePath": "pages/info/info",
+        "text": "消息",
+        "iconPath": "/images/data/icon/xinxi.png",
+        "selectedIconPath": "/images/data/icon/xinxi.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/images/data/icon/wode.png",
+        "selectedIconPath": "/images/data/icon/wode.png"
+      }
+      
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "校园志愿汇",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

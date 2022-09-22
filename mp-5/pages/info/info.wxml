@@ -1,0 +1,53 @@
+<!--pages/info/info.wxml-->
+<view>
+  <view class="top">
+    <view class="top-ipt">
+      <image src="/images/data/icon/sousuo.png"></image>
+      <text> 搜索对话</text>
+    </view>
+  </view>
+  <view style="width: 100%;height: 8px;background-color: gainsboro;"></view>
+  <view class="content">
+    <view class="content1">
+      <view class="content1-img">
+        <image src="/images/data/icon/01.webp"></image>
+      </view>
+      <text class="text1">第一图书馆</text>
+      <text class="text2">同学，请问你什么时候能到岗？</text>
+      <text class="text3">18:00</text>
+  <view class="footer-hr"></view>
+
+    </view>
+  <view class="content1">
+      <view class="content1-img img11">
+        <image src="/images/data/icon/02.webp"></image>
+      </view>
+      <text class="text1">第二图书馆</text>
+      <text class="text2">同学，不好意思我们已经招满人了...</text>
+      <text class="text3">17:00</text>
+  <view class="footer-hr"></view>
+
+    </view>
+  <view class="content1">
+      <view class="content1-img img11">
+        <image src="/images/data/icon/03.jpeg"></image>
+      </view>
+      <text class="text1">计算机学院</text>
+      <text class="text2">老师好，请问办公室还需要这...</text>
+      <text class="text3 text33">8月10日</text>
+  <view class="footer-hr"></view>
+
+    </view>
+  <view class="content1">
+      <view class="content1-img">
+        <image src="/images/data/icon/01.webp"></image>
+      </view>
+      <text class="text1">政管学院</text>
+      <text class="text2">老师好，请问学院办公室还需要这...</text>
+      <text class="text3 text33">8月10日</text>
+
+    </view>
+ 
+
+  </view>
+</view>
